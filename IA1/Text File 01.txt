@@ -1,0 +1,2 @@
+Initial sentence for Text File 01.txt.
+Additional sentence for Step 4.
